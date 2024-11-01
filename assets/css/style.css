@@ -1,0 +1,58 @@
+/*botton*/
+.woo_sp_cart_round_button {
+    border-radius: 50px!important;
+    text-align: center!important;
+    padding: 0px!important;
+    outline: none!important;
+    text-decoration: none!important;
+    border: none!important;
+    box-shadow: none!important;
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    margin: 0px!important;
+    line-height: normal!important;
+    opacity: 0.9;
+    z-index: 999!important;
+    cursor: pointer;
+}
+
+.woo_sp_cart_tl{
+    top: 30px;
+    left: 30px;
+}
+
+.woo_sp_cart_tr{
+    top: 30px;
+    right: 30px;
+}
+
+.woo_sp_cart_bl{
+    bottom: 30px;
+    left: 30px;
+}
+
+.woo_sp_cart_br{
+    bottom: 30px;
+    right: 30px;
+}
+
+.woo_sp_cart_icon{
+    margin-top: 12px;
+    font-size: 35px;
+    margin-left: 1px;
+}
+
+.woo_sp_cart_count{
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    display: block;
+    border-radius: 50%;
+    font-weight: bold;
+    border: 1px solid;
+    font-size: 10px;
+    padding-top: 2px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 15px;
+}
